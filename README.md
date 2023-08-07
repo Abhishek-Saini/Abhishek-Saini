@@ -1,8 +1,9 @@
 - Hi, I’m Abhishek.
-- I'm currently working for Google as a Senior Software Enginneer.
-- Before Google, I have worked for HFT firm Tower Research Capital.
+- I'm currently working for Google as a Senior Software Engineer.
+- Before Google, I worked for the HFT firm Tower Research Capital.
 - I did my graduation from IIT Kharagpur.
-- I like reading books about physics, finance, philosophy, psychology etc.
+- I like reading books about physics, finance, philosophy, psychology, etc.
+- I play games like table tennis, badminton, chess, etc.
 - You can reach me on my [LinkedIn](https://www.linkedin.com/in/abhisheksainikgp/)
 
 <!---
